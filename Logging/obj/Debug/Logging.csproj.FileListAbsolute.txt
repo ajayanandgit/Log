@@ -1,0 +1,2 @@
+C:\Ajay - Imp\Projects\Logging\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
+C:\Ajay - Imp\Projects\Logging_framework\Logging\obj\Debug\Logging.csprojResolveAssemblyReference.cache
